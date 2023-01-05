@@ -4,3 +4,5 @@ matplotlib==3.6.0
 numpy==1.23.3
 seaborn==0.12.0
 scikit-learn==1.1.2
+requests
+bs4
