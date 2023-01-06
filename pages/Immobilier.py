@@ -12,19 +12,11 @@ from bs4 import BeautifulSoup
 
 
 
-st.write('''Récupération des Données sur les Prix des Maisons à Champs-sur-Marne # ''')
+st.write('''Récupération des Données sur les Prix des Maisons à Champs-sur-Marne via l'url suivante
+[link]("https://immobilier.lefigaro.fr/annonces/immobilier-vente-maison-champs+sur+marne+77420.html") : 
+ ''')
 
 
-import streamlit as st
-import pandas as pd
-import streamlit as st
-import sklearn as sk
-from sklearn import datasets
-import numpy as np
-import matplotlib.pyplot as plt
-from pandas_datareader.data import DataReader
-import requests
-from bs4 import BeautifulSoup
 
 
 
