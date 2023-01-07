@@ -13,7 +13,7 @@ from bs4 import BeautifulSoup
 
 
 st.write('''Récupération des Données sur les Prix des Maisons à Champs-sur-Marne via l'url suivante''')
-st.write("Cliquez sur le lien [link] (https://immobilier.lefigaro.fr/annonces/immobilier-vente-maison-champs+sur+marne+77420.html)")
+st.write("Cliquez sur le lien  (https://immobilier.lefigaro.fr/annonces/immobilier-vente-maison-champs+sur+marne+77420.html)")
 
 
 
